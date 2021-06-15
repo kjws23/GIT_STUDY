@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-
+1. 핫픽스를 위해 커밋합니다.
 </body>
 </html>
